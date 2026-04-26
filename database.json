@@ -1,0 +1,144 @@
+{
+    "users": [
+        {
+            "id": "USR-1",
+            "username": "boss",
+            "password": "secure123",
+            "name": "Silver Sterling"
+        },
+        {
+            "id": "USR-2",
+            "username": "sort",
+            "password": "secure123",
+            "name": "Silver Sterling"
+        },
+        {
+            "id": "USR-3",
+            "username": "silverHR",
+            "password": "secure123",
+            "name": "sterling "
+        },
+        {
+            "id": "USR-4",
+            "username": "2547xxxxxxx",
+            "password": "secure123",
+            "name": "sterling "
+        },
+        {
+            "id": "USR-5",
+            "username": "wertrewe",
+            "password": "fegegg33",
+            "name": "3rrg3g34g3g"
+        },
+        {
+            "id": "USR-6",
+            "username": "werty",
+            "password": "secure123",
+            "name": "Silver Sterling"
+        },
+        {
+            "id": "USR-7",
+            "username": "qwertyuio",
+            "password": "secure123",
+            "name": "rtjykhjgchg"
+        },
+        {
+            "id": "USR-8",
+            "username": "wertyh",
+            "password": "asdfrgbbb",
+            "name": "aszdxfvcbg"
+        },
+        {
+            "id": "USR-9",
+            "username": "wertyu",
+            "password": "3e4r5t6yu",
+            "name": "wedrfg"
+        },
+        {
+            "id": "USR-10",
+            "username": "qawsz",
+            "password": "poikjhnb",
+            "name": "rdfgvb "
+        }
+    ],
+    "messages": [
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX18r3+LCcfmBq5dZoj2uXf5MnU+Oids7VJ1Vqi0cPCoLt9DYXUKS8yZz3rAFt8o4ZBdfypHe5xd3fw==",
+            "time": "00:26",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX1979ibr1vdZr5nKLbLtECgpOrdv4HaShkCat/q4ZvTSoToWhr3MYJSI",
+            "time": "00:37",
+            "encrypted": true
+        },
+        {
+            "from": "sterling ",
+            "text": "U2FsdGVkX1+bOH5HXpzXz29Di0kX06ZKB6xO4zwK54YhU8VqWQZPIprSPeYD0GRS",
+            "time": "00:40",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX1+Ei+2stZ0n8YnqfPxMAnvxalMYd0Kzg2c=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX1/EGMKwIUnbsg0JF2Et4SoCaiHHN1uxo6U=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX1/y70ccULpzZtV8iAwbCia05CvfJ3kQrOs=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX18odFCxqe1jCsCbY/59SKQmrOcEP9QyNao=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX18JUhORAQcpC8KRznXTGbNJmyEcEpG2Xtg=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX1/4D4YL4BkN0SEgoNpZbB6PdyXUMgVhyvI=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "Silver Sterling",
+            "text": "U2FsdGVkX1+TGslQdoWmIr8AUDUaMGhObeg8KKdtmrg=",
+            "time": "00:52",
+            "encrypted": true
+        },
+        {
+            "from": "rtjykhjgchg",
+            "text": "U2FsdGVkX1+S8GZMfJqWNinc+iKP/+jYvOtyRwcqX8w=",
+            "time": "01:37",
+            "timer": 5
+        },
+        {
+            "from": "aszdxfvcbg",
+            "text": "U2FsdGVkX1/77l33Q7Onr6ggn8kxSo2X34P306Xi5MahppBh6EHrB4oPfjqgg2ZF",
+            "time": "01:41",
+            "timer": 0
+        },
+        {
+            "from": "rdfgvb ",
+            "text": "U2FsdGVkX1+67TBBaE7gNksLqQmAhEUvTGtYMzhKqzQ=",
+            "time": "02:01",
+            "timer": 0
+        }
+    ]
+}
